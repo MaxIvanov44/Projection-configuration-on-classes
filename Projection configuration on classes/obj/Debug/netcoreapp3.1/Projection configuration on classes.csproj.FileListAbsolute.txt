@@ -1,0 +1,22 @@
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\obj\Debug\netcoreapp3.1\Projection configuration on classes.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\obj\Debug\netcoreapp3.1\staticwebassets\Projection configuration on classes.StaticWebAssets.Manifest.cache
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\obj\Debug\netcoreapp3.1\staticwebassets\Projection configuration on classes.StaticWebAssets.xml
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\obj\Debug\netcoreapp3.1\Projection configuration on classes.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\obj\Debug\netcoreapp3.1\Projection configuration on classes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\obj\Debug\netcoreapp3.1\Projection configuration on classes.AssemblyInfoInputs.cache
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\obj\Debug\netcoreapp3.1\Projection configuration on classes.AssemblyInfo.cs
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\bin\Debug\netcoreapp3.1\person.json
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\bin\Debug\netcoreapp3.1\Projection configuration on classes.exe
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\bin\Debug\netcoreapp3.1\Projection configuration on classes.deps.json
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\bin\Debug\netcoreapp3.1\Projection configuration on classes.runtimeconfig.json
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\bin\Debug\netcoreapp3.1\Projection configuration on classes.runtimeconfig.dev.json
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\bin\Debug\netcoreapp3.1\Projection configuration on classes.dll
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\bin\Debug\netcoreapp3.1\Projection configuration on classes.pdb
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\obj\Debug\netcoreapp3.1\Projection configuration on classes.RazorTargetAssemblyInfo.cache
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\obj\Debug\netcoreapp3.1\Projection configuration on classes.dll
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\obj\Debug\netcoreapp3.1\Projection configuration on classes.pdb
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\obj\Debug\netcoreapp3.1\Projection configuration on classes.genruntimeconfig.cache
+C:\Users\ivano\source\repos\Projection configuration on classes\Projection configuration on classes\bin\Debug\netcoreapp3.1\person2.xml

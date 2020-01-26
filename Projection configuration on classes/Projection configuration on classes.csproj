@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Projection_configuration_on_classes</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="person2.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="person2.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
